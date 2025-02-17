@@ -28,12 +28,13 @@
 }
 
 img {
-    position: relative;
-    top: 25%;
-    left: 200px;
     max-width: 100%;
     height: auto;
+    display: block; /* Para evitar espaços indesejados ao redor da imagem */
+    margin: 200px 200px
+     ; /* Centraliza a imagem horizontalmente */
 }
+
 
 h1 {
     font-weight: 400;
