@@ -27,9 +27,9 @@ Este projeto foi um marco importante na minha jornada de aprendizado, pois me pe
 Aqui está uma prévia do resultado final:
 
 ### Versão Desktop
-<img src="https://github.com/ricardoduarte22/easy-shopping/blob/master/Captura%20de%20tela%202025-02-16%20223236.png?raw=true" alt="Preview do Projeto Easy Shopping - Desktop" width="600">
+<img src="https://github.com/ricardoduarte22/easy-shopping/blob/master/assets/Captura%20de%20tela%202025-02-16%20223236.png?raw=true" width="600">
 
 ### Versão Mobile
-<img src="https://github.com/ricardoduarte22/easy-shopping/blob/master/Captura%20de%20tela%20celular%202025-02-16%20223326.png?raw=true" alt="Preview do Projeto Easy Shopping - Mobile" width="300">
+<img src="https://github.com/ricardoduarte22/easy-shopping/blob/master/assets/Captura%20de%20tela%20celular%202025-02-16%20223326.png?raw=true" width="300">
 
 ---
